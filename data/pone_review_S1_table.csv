@@ -1,0 +1,401 @@
+study,sample_size,infected_cases,prevalence,country,who_region,year
+"Duedu,et al 2017",265,232,0.8754717,Ghana,AFRO,2017
+"Dégbey, et al 2021",384,30,0.078125,Benin,AFRO,2021
+"Abdel-Fattah, et al 2005",67,46,0.68656716,Saudi Arabia,EMRO,2005
+"Abdel-wahab, et al 2013",1373,74,0.05389658,Egypt,EMRO,2013
+"Abubakar, et al 2020",321,47,0.14641745,Nigeria,AFRO,2020
+"Abulhasan, et al 2020",562,121,0.21530249,Kuwait,EMRO,2020
+"Adeleke,et al 2015",231,57,0.24675325,South Africa,AFRO,2015
+"Afhami, et al 2013",1287,288,0.22377622,Iran,EMRO,2013
+"Afhami, et al 2019",834,57,0.06834532,Iran,EMRO,2019
+"Afle, et al 2019",160,104,0.65,Benin,AFRO,2019
+"Ahmadi, et al 2019",717,95,0.13249651,Iran,EMRO,2019
+"Ahmed, et al 2012",2253,114,0.0505992,Sudan,EMRO,2012
+"Ahmed,et al 2015",402,84,0.20895522,Tanzania,AFRO,2015
+"Aiken,et al 2013",1172,93,0.07935154,Kenya,AFRO,2013
+"Al Luhidan, et al 2019",752,82,0.10904255,Saudi Arabia,EMRO,2019
+"Al -Tawfiq, et al 2009",57122,588,0.01029376,Saudi Arabia,EMRO,2009
+"Alebel,et al 2021",270,95,0.35185185,Ethiopia,AFRO,2021
+"Alemayehu,et al 2014",415,72,0.17349398,Ethiopia,AFRO,2014
+"Alemu,et al 2012",385,40,0.1038961,Ethiopia,AFRO,2012
+"Alemu,et al 2020",336,39,0.11607143,Ethiopia,AFRO,2020
+"Alexopoulos, et al 2011",2180,64,0.0293578,Greece,EURO,2011
+"Alfayez, et al 2019",248,53,0.21370968,Saudi Arabia,EMRO,2019
+"Alfouzan, et al 2019",479,163,0.34029228,Kuwait,EMRO,2019
+"Al-Gasha’a, et al 2020",4013,166,0.04136556,Iraq,EMRO,2020
+"Al-Hazmi, et al 2015",7923,211,0.02663133,Saudi Arabia,EMRO,2015
+"Ali,et al 2016",300,42,0.14,Ethiopia,AFRO,2016
+"Aliki, et al 2018",2421,136,0.05617513,Switzerland,EURO,2018
+"Alnajjar, et al 2020",100,45,0.45,United Arab Emirates,EMRO,2020
+"Alothman, et al 2020",1103,52,0.04714415,Multiple,EMRO,2020
+"Aloush, et al 2019",108609,55,0.0005064,Multiple,EMRO,2019
+"Alshammari, et al 2020",432,109,0.25231481,Saudi Arabia,EMRO,2020
+"Alshamrani, et al 2019",700,194,0.27714286,Saudi Arabia,EMRO,2019
+"Amiri, et al 2015",14042,1601,0.1140151,Iran,EMRO,2015
+"Amiyare, et al 2015",18535,1705,0.09198813,Morocco,EMRO,2015
+"Anggi,et al 2019",54,24,0.44444444,Indonesia,SEARO,2019
+"Antonioly, et al 2016",1239,119,0.0960452,Italy,EURO,2016
+"Antonioly, et al 2020",1102,115,0.10435572,Italy,EURO,2020
+"Archibald,et al 2000",375,233,0.62133333,Malawi,AFRO,2000
+"Arif, et al 2021",250,100,0.4,Pakistan,EMRO,2021
+"Arnoldo, et al 2018 A",3172,224,0.07061791,Italy,EURO,2018
+"Arnoldo, et al 2018 B",3253,204,0.06271134,Italy,EURO,2018
+"Arnoldo, et al 2018 C",2969,164,0.05523745,Italy,EURO,2018
+"Arnoldo, et al 2018 D",3036,175,0.05764163,Italy,EURO,2018
+"Asembergiene, et al 2009",1239,169,0.13640032,Lithuania,EURO,2009
+"Askarian, et al 2004",175,119,0.68,Iran,EMRO,2004
+"Askarian, et al 2011",182,140,0.76923077,Iran,EMRO,2011
+"Askarian, et al 2013",126,86,0.68253968,Iran,EMRO,2013
+"Astagneau, et al 2000",236334,18074,0.07647651,France,EURO,2000
+"Atici, et al 2016 A",86,60,0.69767442,Turkey,EURO,2016
+"Atici, et al 2016 B",299,63,0.21070234,Turkey,EURO,2016
+"Atici, et al 2016 C",319,56,0.17554859,Turkey,EURO,2016
+"Atici, et al 2016 D",303,45,0.14851485,Turkey,EURO,2016
+"Auriti, et al 2010",1692,217,0.12825059,Italy,EURO,2010
+"Awad, et al 2020",807,11,0.01363073,Jordan,EMRO,2020
+"Awoke,et al 2019",261,34,0.1302682,Ethiopia,AFRO,2019
+"Ayala,et al 2021",382,34,0.08900524,Ethiopia,AFRO,2021
+"Ayatollahi Mousavi, et al 2018",237,63,0.26582278,Iran,EMRO,2018
+"Ayed, et al 2019",7235,152,0.02100898,Tunisia,EMRO,2019
+"Ayele,et al 2018",384,23,0.05989583,Ethiopia,AFRO,2018
+"Azimi, et al 2011",1053,89,0.08452042,Iran,EMRO,2011
+"Azzam, et al 2001",7018393,82949,0.0118188,Lebanon,EMRO,2001
+"Bakullari, et al 2014",79019,2037,0.02577861,United States,AMRO,2014
+"Balkhy, et al 2006",185,79,0.42702703,Saudi Arabia,EMRO,2006
+"Baral,et al 2020",426,78,0.18309859,Malawi,AFRO,2020
+"Barchitta, et al 2020",18852,1042,0.05527265,Italy,EURO,2020
+"Basiri, et al 2015",434,194,0.44700461,Iran,EMRO,2015
+"Basu,et al 2017",3128,114,0.03644501,India,SEARO,2017
+"Bediako-Bowan,et al 2020",4577,438,0.09569587,Ghana,AFRO,2020
+"Behenke, et al 2013",41539,2110,0.05079564,Germany,EURO,2013
+"Behnke, et al 2013",41539,2110,0.05079564,Germany,EURO,2013
+"Behrooozi, et al 2010",96374,993,0.01030361,Iran,EMRO,2010
+"Behzadnia, et al 2014",200,62,0.31,Iran,EMRO,2014
+"Belete,et al 2019",259,41,0.15830116,Ethiopia,AFRO,2019
+"Ben Rejeb, et al 2016",1220,55,0.04508197,Tunisia,EMRO,2016
+"Ben Salem, et al 2011",1500,957,0.638,Tunisia,EMRO,2011
+"Bianco, et al 2018",1283,147,0.11457521,Italy,EURO,2018
+"Billoro,et al 2019",255,42,0.16470588,Ethiopia,AFRO,2019
+"Biscione, et al 2009",53501,1772,0.03312088,Brazil,AMRO,2009
+"Bo, et al 2015",363,147,0.40495868,Italy,EURO,2015
+"Bolat, et al 2012",1395,156,0.11182796,Turkey,EURO,2012
+"Boonjaraspinyo,et al 2013",242,90,0.37190083,Thailand,SEARO,2013
+"Bouzbid, et al 2011",1499,335,0.22348232,France,EURO,2011
+"Buys,et al 2016",410,339,0.82682927,South Africa,AFRO,2016
+"Cai, et al 2017",5415,646,0.11929825,China,WPRO,2017
+"Campos, et al 2001",9322,632,0.06779661,Brazil,AMRO,2001
+"Carmem Lúcia Pessoa-Silva, et al 2004",4878,1074,0.2201722,Brazil,AMRO,2004
+"Cevik, et al 2005",190,68,0.35789474,Turkey,EURO,2005
+"Chabah, et al 2016",811,15,0.01849568,Morocco,EMRO,2016
+"Chacko,et al 2017",499,76,0.15230461,India,SEARO,2017
+"Charrier, et al 2014",7825,527,0.06734824,Italy,EURO,2014
+"Chernet,et al 2020",400,300,0.75,Ethiopia,AFRO,2020
+"Ciofi degli Atti , et al 2012",1506,92,0.06108898,Italy,EURO,2012
+"Coskun, et al 2008",3249,112,0.03447215,Turkey,EURO,2008
+"Crivaro, et al 2015",1699,153,0.09005297,Italy,EURO,2015
+"Daneman, et al 2005",2351,291,0.12377712,Canada,AMRO,2005
+"Daryapeyma, et al 2016",9894,3294,0.33292905,Sweden,EURO,2016
+"Dasgupta,et al 2015",242,29,0.11983471,India,SEARO,2015
+"Davoudi, et 2015",337,57,0.16913947,Iran,EMRO,2015
+"Davoudi, et al 2014",363,40,0.11019284,Iran,EMRO,2014
+"Decoster, et al 2012",11182,552,0.04936505,France,EURO,2014
+"Demeke,et al 2021",281,94,0.33451957,Ethiopia,AFRO,2021
+"Deorukhkar,et al 2016",13456,93,0.00691141,India,SEARO,2016
+"Deptu1a , et al 2015",16598,1021,0.06151344,Poland,EURO,2015
+"Deptuła, et al 2017",945,370,0.39153439,Poland,EURO,2017
+"Dereje,et al 2017",210,122,0.58095238,Ethiopia,AFRO,2017
+"Derso,et al 2016",384,121,0.31510417,Ethiopia,AFRO,2016
+"Dessie,et al 2016",1088,107,0.09834559,Ethiopia,AFRO,2016
+"Dettenkofer, et al 2001",505,96,0.19009901,Germany,EURO,2001
+"Dettenkofer, et al 2003",351,169,0.48148148,Germany,EURO,2003
+"Dhar, et al 2014",80,21,0.2625,Oman,EMRO,2014
+"Dima, et al 2007",1739,320,0.1840138,Greece,EURO,2007
+"Dimitrov, et al 2004",529,28,0.05293006,Kuwait,EMRO,2004
+"Dimitrov, et al 2005",89,48,0.53932584,Kuwait,EMRO,2005
+"Ding,et al 2009",1980,531,0.26818182,China,WPRO,2009
+"Djordjevic, et al 2012",537,89,0.16573557,Serbia,EURO,2012
+"Douglas, et al 2004",33127,257,0.00775802,Australia,WPRO,2004
+"Duszynska, et al 2018",2549,540,0.21184778,Poland,EURO,2018
+"Duszynska, et al 2020",1353,252,0.18625277,Poland,EURO,2020
+"Efe, et al 2011",621,54,0.08695652,Turkey,EURO,2011
+"Ehlers,et al 2018",508,253,0.4980315,South Africa,AFRO,2018
+"Ekrami, et al 2007",6000,135,0.0225,Iran,EMRO,2007
+"El Hamzaoui, et al 2020",34556,59,0.00170737,Morocco,EMRO,2020
+"El Tantawy, et al 2012",377,132,0.35013263,Egypt,EMRO,2012
+"El-Feky, et al 2016",7454,341,0.04574725,Egypt,EMRO,2016
+"Ensinck, et al 2018",728,456,0.62637363,Argentina,AMRO,2018
+"Erbay, et al 2003",434,113,0.26036866,Turkey,EURO,2003
+"Esen, et al 2004",236,115,0.48728814,Turkey,EURO,2004
+"Eshetie,et al 2015",442,183,0.41402715,Ethiopia,AFRO,2015
+"Eshrati, et al 2018",11308,1020,0.09020163,Iran,EMRO,2018
+"Etyang,et al 2020",68,12,0.17647059,Uganda,AFRO,2020
+"Eyayu,et al 2021",1240,656,0.52903226,Ethiopia,AFRO,2021
+"Fabbro-Peray, et al 2007",7086,1914,0.27011008,France,EURO,2007
+"Fan, et al 2019",27783,856,0.03081021,China,WPRO,2019
+"Faria, et al 2007",968,163,0.16838843,Albania,EURO,2007
+"Fekih Hassen, et al 2014",233,94,0.40343348,Tunisia,EMRO,2014
+"Fenny,et al 2021",357,100,0.28011204,Ghana,AFRO,2021
+"Fenta,et al 2020",299,50,0.16722408,Ethiopia,AFRO,2020
+"Ferreira, et al 2020",195,44,0.22564103,Brazil,AMRO,2020
+"Ferreira,et al 2020",831,263,0.31648616,Mozambique,AFRO,2020
+"Fisha ,et al 2019",642,64,0.09968847,Ethiopia,AFRO,2019
+"Fitzpatrick A, et al 2008",3644,198,0.05433589,Ireland,EURO,2008
+"Fitzpatrick, et al 2008",7541,369,0.0489325,Ireland,EURO,2008
+"Folgori, et al 2016",14924,335,0.02244707,Italy,EURO,2016
+"Forson ,et al 2017",50,43,0.86,Ghana,AFRO,2017
+"Gadallah, et al 2014",10075,215,0.02133995,Egypt,EMRO,2014
+"Gailiene, et al 2012",731,28,0.03830369,Lithuania,EURO,2012
+"Gajović, et al 2007",2246,180,0.08014248,Serbia,EURO,2007
+"Ganesh,et al 2019",1597,197,0.12335629,Nepal,SEARO,2019
+"Gastmeier, et al 2009",652971,2213,0.00338912,Germany,EURO,2009
+"Geffers, et al 2008",8677,2832,0.32638009,Germany,EURO,2008
+"Gelaw ,et al 2017",384,26,0.06770833,Ethiopia,AFRO,2017
+"Gentile, et al 2001",1081,91,0.08418131,Argentina,AMRO,2001
+"Gentilotti , et al 2020",1040,320,0.30769231,Tanzania,AFRO,2020
+"Geravandi, et al 2017",171,56,0.32748538,Iran,EMRO,2017
+"Gerber, et al 2009",1989233,57794,0.02905341,United States,AMRO,2009
+"Ghassemi, et al 2015",317,115,0.36277603,Iran,EMRO,2015
+"Ginawi,et al2014",176,46,0.26136364,India,SEARO,2014
+"Golliot, et al 2001",11254,1118,0.09934246,France,EURO,2001
+"Graves, et al 2003",5819,553,0.09503351,New Zealand,WPRO,2003
+"Gregor, et al 2014",21937,189,0.00861558,Czech Republic,EURO,2014
+"Gugliotta, et al 2020",588,43,0.07312925,Italy,EURO,2020
+"Guo, et al 2018",986,156,0.15821501,China,WPRO,2018
+"Gupta, et al 2018",1000,57,0.057,Saudi Arabia,EMRO,2018
+"Gurskis, et al 2009",270,42,0.15555556,Lithuania,EURO,2009
+"Habyarimana,et al 2021",2910,341,0.11718213,Rwanda,AFRO,2021
+"Haghighifar, et al 2020",888,116,0.13063063,Iran,EMRO,2020
+"Hamedi, et al 2014",183,48,0.26229508,Iran,EMRO,2014
+"Han, et al 2021",480943,3863,0.00803214,China,WPRO,2021
+"Hassan Al-Wahsh, et 2011",1410,508,0.36028369,Jordan,EMRO,2011
+"Hassan, et al 2017",2667,232,0.08698913,Egypt,EMRO,2017
+"Hassan, et al 2020",106,91,0.85849057,Sudan,EMRO,2020
+"Hassan, R, et al 2017",1731,251,0.14500289,Egypt,EMRO,2017
+"Hassanzadeh, et al 2009",401,77,0.19201995,Iran,EMRO,2009
+"Hatachi, et al 2015",426,28,0.0657277,Japan,WPRO,2015
+"He, et al 2020",325,65,0.2,China,WPRO,2020
+"Hearn, et al 2017",3263,93,0.02850138,Cambodia,WPRO,2017
+"Heydarpour, et al 2017",312,45,0.14423077,Iran,EMRO,2017
+"Hormozi, et al 2018",110,19,0.17272727,Iran,EMRO,2018
+"Hsiue, et al 2010",103,27,0.26213592,Taiwan,WPRO,2010
+"Hsu, et al 2011",306,74,0.24183007,Taiwan,WPRO,2011
+"Hugonnet, et al 2007",366,144,0.39344262,Switzerland,EURO,2007
+"Ilić, et al 2009",764,47,0.06151832,Serbia,EURO,2009
+"Ilic, et al 2017",2495,153,0.06132265,Serbia,EURO,2017
+"Iliyasu, et al 2018",8216,518,0.06304771,Nigeria,AFRO,2018
+"Iwuafor, et al 2016",71,32,0.45070423,Nigeria,AFRO,2016
+"Jabarpour, et al 2021",3450,324,0.09391304,Iran,EMRO,2021
+"Jannasch, et al 2015",358,120,0.33519553,Germany,EURO,2015
+"jaradat, et al 2019",22600,1130,0.05,Jordan,EMRO,2019
+"Jeong, et al 2006",489,148,0.30265849,South Korea,WPRO,2006
+"Johnson, et al 2021",400,140,0.35,Uganda,AFRO,2021
+"Kahsay, et al 2014",184,73,0.39673913,Ethiopia,AFRO,2014
+"Kalal,et al 2017",342,62,0.18128655,India,SEARO,2017
+"Kalayu,et al 2019",649,66,0.10169492,Ethiopia,AFRO,2019
+"Kaoutar, et al, 2004",1945,518,0.26632391,France,EURO,2004
+"karaoui, et al 2020",1666,114,0.06842737,Lebanon,EMRO,2020
+"Katherason, et al 2008",364,128,0.35164835,Malaysia,WPRO,2008
+"Kaur,et al 2014",1108,174,0.15703971,India,SEARO,2014
+"Kefale,et al 2020",281,55,0.19572954,Ethiopia,AFRO,2020
+"Kepenekli, et al, 2015",327,122,0.37308869,Turkey,EURO,2015
+"Khan, et al, 2001",82,78,0.95121951,Turkey,EURO,2001
+"Kiani, et al 2009",418,161,0.38516746,Pakistan,EMRO,2009
+"Kim, et al 2014",617,339,0.54943274,South Korea,WPRO,2014
+"Kimura, et al 2020",5994054,11823,0.00197245,Japan,WPRO,2020
+"Kiroro,et al 2018",1086,47,0.04327808,Kenya,AFRO,2018
+"Kiros,et al 2019",74,11,0.14864865,Ethiopia,AFRO,2019
+"Kishk, et al 2014",1153,160,0.13876843,Egypt,EMRO,2014
+"Kivi, et al 2008",93511,3494,0.03736459,Netherlands,EURO,2008
+"Klavs, et al 2016",5628,358,0.06361052,Slovenia,EURO,2016
+"Klavs, et al 2019",5743,377,0.06564513,Slovenia,EURO,2019
+"Kolpa, et al 2018",159028,2184,0.01373343,Poland,EURO,2018
+"Kołpa, et al, 2018",1847,510,0.27612344,Poland,EURO,2018
+"König, et al 2021",388,165,0.42525773,Austria,EURO,2021
+"Krieger, et al 2015",3264,365,0.11182598,Russia,EURO,2015
+"Krishna,et al 2015",54,43,0.7962963,India,SEARO,2015
+"Kritsotakis, et al 2008",1832,129,0.07041485,Cyprus,EURO,2008
+"Kruse, et al 2013",2202,385,0.17484105,Vietnam,WPRO,2013
+"Kübler, et al 2012",847,206,0.24321133,Poland,EURO,2012
+"Labi,et al 2019",2107,184,0.08732795,Ghana,AFRO,2019
+"Lahoorpour, et al 2013",202,79,0.39108911,Iran,EMRO,2013
+"Lahsaeizadeh, et al 2008",1191,64,0.05373636,Iran,EMRO,2008
+"Lakhani, et al 2020",293,19,0.06484642,Spain,EURO,2020
+"Lamarsalle, et al 2013",520715,15520,0.02980517,France,EURO,2013
+"Lanini, et al 2009",9609,589,0.0612967,Italy,EURO,2009
+"Lari, et al 2000",505,243,0.48118812,Iran,EMRO,2000
+"Latha,et al 2019",2249,725,0.3223655,India,SEARO,2019
+"Le, et al 2021",379,98,0.2585752,China,WPRO,2021
+"Litwin, et al 2020",3708,742,0.20010787,Poland,EURO,2020
+"Lizioli, et al 2003",18667,829,0.04440992,Italy,EURO,2003
+"Lyytikainen, et al 2008",8234,703,0.0853777,Finland,EURO,2008
+"Madani, et al 2009",458,4,0.00873362,Morocco,EMRO,2008
+"Magele,et al 2015",984,235,0.23882114,Nairobi,AFRO,2015
+"Mageto,et al 2020",180,37,0.20555556,Kenya,AFRO,2020
+"Mahfouz, et al 2010",245,73,0.29795918,Saudi Arabia,EMRO,2010
+"Mahjoub, et al 2015",7730,103,0.01332471,Tunisia,EMRO,2015
+"Mama,et al 2014",150,131,0.87333333,Ethiopia,AFRO,2014
+"Mama,et al 2019",239,81,0.33891213,Ethiopia,AFRO,2019
+"Mamo,et al 2017",384,36,0.09375,Ethiopia,AFRO,2017
+"Manyahi,et al 2014",100,90,0.9,Tanzania,AFRO,2014
+"Mazière, et al 2013",223,38,0.17040359,France,EURO,2013
+"McKay, et al 2015",543,472,0.86924494,South Africa,AFRO,2015
+"Medina-Polo, et al 2014",1701,115,0.06760729,Spain,EURO,2014
+"Melaku,et al 2012",1254,118,0.09409888,Ethiopia,AFRO,2012
+"Meng, et al 2020",2227,222,0.09968568,China,WPRO,2020
+"Mengesha,et al 2014",610,123,0.20163934,Ethiopia,AFRO,2014
+"Metsini, et al 2018",2421,136,0.05617513,Switzerland,EURO,2018
+"Milošević, et al 2014",52,39,0.75,Serbia,EURO,2014
+"Misal,et al 2017",650,104,0.16,India,SEARO,2017
+"Misganaw,et al 2020",68,16,0.23529412,Ethiopia,AFRO,2020
+"Mitchel, et al 2016",162503,2821,0.01735968,Australia,WPRO,2016
+"Mitchell, et al 2019",25578,2447,0.09566815,Canada,AMRO,2019
+"Mohammed, et al 2014",389,63,0.16195373,Egypt,EMRO,2014
+"Mohammed, et al 2016",1497,50,0.03340013,Libya,EMRO,2016
+"Moreno, et al 2006",2172,266,0.12246777,Colombia,AMRO,2006
+"Mpirimbanyi,et al-2018",175,43,0.24571429,Rwanda,AFRO,2018
+"Mukagendaneza,et al 2019",294,34,0.11564626,Rwanda,AFRO,2019
+"Mulu,et al 2012",294,32,0.10884354,Ethiopia,AFRO,2012
+"Mulu,et al 2015",409,63,0.15403423,Ethiopia,AFRO,2015
+"Mulu,et al 2017",575,280,0.48695652,Ethiopia,AFRO,2017
+"Muluye,et al 2013",228,204,0.89473684,Ethiopia,AFRO,2013
+"Murajda, et al 2010",247,11,0.04453441,Slovakia,EURO,2010
+"Mushi,et al 2019",250,59,0.236,Tanzania,AFRO,2019
+"Musonda,et al 2020",78,72,0.92307692,Zambia,AFRO,2020
+"Myat,et al 2020",947,90,0.09503696,Myanmar,SEARO,2020
+"Naas,et al 2016",8500,303,0.03564706,Madagascar,AFRO,2016
+"Naderi-Nasab, et al 2007",3686,1738,0.47151384,Iran,EMRO,2007
+"Nahirya,et al 2008",391,163,0.4168798,Uganda,AFRO,2008
+"Nangino Gde, et al 2012",974,87,0.08932238,Brazil,AMRO,2012
+"Ndir, et al 2016",186,110,0.59139785,Senegal,AFRO,2016
+"Negero,et al 2017",210,159,0.75714286,Ethiopia,AFRO,2017
+"Ngamchokwathana, etal 2021",156,45,0.28846154,Thailand,SEARO,2021
+"Ngogo,et al 2020",297,49,0.16498316,Tanzania,AFRO,2020
+"Ngonzi,et al 2018",4231,84,0.01985346,Uganda,AFRO,2018
+"Nkurunziza, et al 2019",550,60,0.10909091,Rwanda,AFRO,2019
+"Nosrati, et al 2010",473,155,0.32769556,Iran,EMRO,2010
+"Nurain, et al 2015",91,67,0.73626374,Sudan,EMRO,2015
+"Nwadike, et al 2014",100,14,0.14,Nigeria,AFRO,2014
+"Nwankwo,et al 2014",2920,878,0.30068493,Nigeria,AFRO,2014
+"O¨ ncu¨ l, et al 2014",658,469,0.71276596,Turkey,EURO,2014
+"O’Callaghan,et al 2011",333,185,0.55555556,Mozambique,AFRO,2011
+"Oberdorfer,et al 2009",707,46,0.06506365,Thailand,SEARO,2009
+"Odoki,et al 2019",267,86,0.32209738,Uganda,AFRO,2019
+"Ofurum, et al 2010",1409,256,0.18168914,Bahrain,EMRO,2010
+"Oladeinde,et al 2013",509,357,0.70137525,Nigeria,AFRO,2013
+"Oladokun,et al 2016",226,22,0.09734513,South Africa,AFRO,2016
+"Olaechea, et al 2003",6593,1156,0.17533748,Poland,EURO,2003
+"Olawale,et al 2011",525,118,0.2247619,Nigeria,AFRO,2011
+"Omar M, et al 2003",5351955,113436,0.02119525,United States,AMRO,2003
+"Omar, et al 2009",149609,1789,0.01195784,Kuwait,EMRO,2009
+"Oskouie, et al 2013",31083,470,0.01512081,Iran,EMRO,2013
+"Parajuli,et al 2017",3088,231,0.0748057,Nepal,SEARO,2017
+"Pathak,et al 2017",1173,92,0.07843137,India,SEARO,2017
+"Pellizzer, et al 2008",6352,404,0.06360202,Italy,EURO,2008
+"Pouladfar, et al 2017",532874,36467,0.06843456,Iran,EMRO,2017
+"Pourakbari, et al 2012",276,25,0.09057971,Iran,EMRO,2012
+"Qader, et al 2021",1586,625,0.39407314,Afghanistan,EMRO,2021
+"Rabasa,et al 2002",194,22,0.11340206,Nigeria,AFRO,2002
+"Rafa , et al 2021",3028,540,0.17833554,Poland,EURO,2021
+"Raffaldi, et al 2011",260,25,0.09615385,Italy,EURO,2011
+"Randrianirina,et al 2010",651,533,0.8187404,Madagascar,AFRO,2010
+"Rangelova , et al 2020",507,48,0.09467456,Bulgarian,EURO,2020
+"Rasslan, et al 2012",134,56,0.41791045,Egypt,EMRO,2012
+"Rejeb, et al 2016",55,22,0.4,Tunisia,EMRO,2016
+"Rezai, et al 2017",4029,509,0.12633408,Iran,EMRO,2017
+"Richards, et al 2000",498998,15790,0.03164341,United States,AMRO,2000
+"Ripabelli, et al 2019",224,16,0.07142857,Italy,EURO,2019
+"Roberts, et al 2000",540,10,0.01851852,Australia,WPRO,2000
+"Rodríguez-Garcí, et al 2015",82,12,0.14634146,Mexico,AMRO,2015
+"Roohu,et al 2019",100,24,0.24,Nepal,SEARO,2019
+"Rosenthal, et al 2006",21069,3095,0.14689829,Multiple,EURO,2006
+"Rosenthal, et al 2020",51,11,0.21568627,Multiple,EMRO,2020
+"Rosenthal, et al 2020",189,83,0.43915344,Multiple,EMRO,2020
+"Rosenthal,et al 2004",3319,469,0.14130762,Argentina,AMRO,2004
+"Rosenthal,et al 2019",2716,266,0.09793814,Multiple,EMRO,2019
+"Rosmarakis , et al 2007",360,18,0.05,Greece,EURO,2007
+"Rosselló-Urgell, et al 2004",34715,7493,0.2158433,America,EURO,2004
+"Rotimi, et al 2002",1553,130,0.08370895,Kuwait,EMRO,2002
+"Rouhi, et al 2018",1545,169,0.10938511,Iran,EMRO,2018
+"Rozaidi, et al 2001",988,228,0.23076923,Malaysia,WPRO,2001
+"Russo, et al 2019",6623,2767,0.4177865,Australia,WPRO,2019
+"Sadaf, et al 2020",238,51,0.21428571,Pakistan,EMRO,2020
+"Sadeghi, et al 2021",1382,668,0.48335745,Iran,EMRO,2021
+"Saleem, et al 2018",913,79,0.08652793,Pakistan,EMRO,2018
+"Salgado Yepez, et al 2017",748,70,0.09358289,Ecuador,AMRO,2017
+"Salmanov, et al 2019",97340,10986,0.11286213,Ukrain,EURO,2019
+"Salomao, et al 2008",1031,307,0.29776916,Brazil,AMRO,2008
+"Sampath Jayawee, et al 2019",818,86,0.10513447,Sri Lanka,SEARO,2019
+"Sartor, et al 2002",207,7,0.03381643,France,EURO,2002
+"Sarvikivi, et al 2008",511,66,0.12915851,Finland,EURO,2008
+"Sax, et al 2001",1928,218,0.11307054,Switzerland,EURO,2001
+"Scamardo, et al 2020",1265,125,0.09881423,Italy,EURO,2020
+"See, et al 2013",90515,453,0.0050047,Egypt,EMRO,2013
+"Segagni Lusignani, et al 2016",4321,268,0.06202268,Austria,EURO,2016
+"Seid,et al 2018",342,104,0.30409357,Ethiopia,AFRO,2018
+"Shaikh, et al 2008",333,97,0.29129129,Pakistan,EMRO,2008
+"Shehab El-Din, et al 2015",192,65,0.33854167,Egypt,EMRO,2015
+"Shibata, et al 2002",16620,954,0.05740072,Japan,WPRO,2002
+"Shiferaw,et al 2015",160,95,0.59375,Ethiopia,AFRO,2015
+"Shrestha,et al 2019",1962,314,0.16004077,Nepal,SEARO,2019
+"Siddiqui, et al 2012",2241,69,0.03078983,Pakistan,EMRO,2012
+"Sime,et al 2020",292,18,0.06164384,Ethiopia,AFRO,2020
+"Simon, et al 2008",411,181,0.44038929,Multiple,EURO,2008
+"Sinatra, et al 2013",328,12,0.03658537,Italy,EURO,2013
+"Singh, et al 2015",28340,1189,0.04195483,India,SEARO,2015
+"Smyth, et al 2008",75455,5722,0.07583328,Multiple,EURO,2008
+"Soltani, et al 2012",464,157,0.33836207,Iran,EMRO,2012
+"Soltani, et al 2016",7500,728,0.09706667,Iran,EMRO,2016
+"Srun, et al 2013",222,176,0.79279279,Cambodia,WPRO,2013
+"Starzyk-Łuszcz, et al 2017",164,36,0.2195122,Poland,EURO,2017
+"Steele,et al 2002",114,80,0.70175439,South Africa,AFRO,2002
+"Sticchi, et al 2018",3647,376,0.10309844,Italy,EURO,2018
+"Stoesser, et al 2013",613,65,0.10603589,Combodia,WPRO,2013
+"Šuljagić, et al 2021",12478,519,0.0415932,Serbia,EURO,2021
+"Sun, et al 2015",1196,87,0.07274247,China,WPRO,2015
+"Syaiful,et al 2020",4893,135,0.02759044,Indonesia,SEARO,2020
+"Tabatabaei, et al 2011",428,31,0.07242991,Iran,EMRO,2011
+"Taher, et al 2009",306,28,0.09150327,Iran,EMRO,2009
+"Talaat, et al 2016",474544,2373,0.00500059,Egypt,EMRO,2016
+"Tang, et al 2020",613,72,0.11745514,China,WPRO,2020
+"Tarai,et al 2019",969,38,0.03921569,India,SEARO,2019
+"Tarricone, et al 2020",11461,291,0.02539045,Italy,EURO,2020
+"Tassew,et al 2020",410,81,0.19756098,Ethiopia,AFRO,2020
+"Tekin, et al 2013",6932,580,0.08366994,Turkey,EURO,2013
+"Teklebirhan,et al 2015",305,130,0.42622951,Ethiopia,AFRO,2015
+"Teweldemedhin,et al 2017",270,180,0.66666667,Ethiopia,AFRO,2017
+"Tolera,et al 2006",394,29,0.07360406,Ethiopia,AFRO,2006
+"Tolera,et al 2020",394,29,0.07360406,Ethiopia,AFRO,2020
+"Tuan, et al 2015",376,25,0.06648936,Vietnam,WPRO,2015
+"Tukenmez Tigen, et al 2014",1798,309,0.17185762,Turkey,EURO,2014
+"Valera, et al 2001",104,50,0.48076923,Italy,EURO,2001
+"Valinteliene, et al 2012",25807,973,0.03770295,Lithuania,EURO,2012
+"van der Kooi, et al 2010",26937,1934,0.07179716,Netherlands,EURO,2010
+"Vandael, et al 2020",11800,856,0.07254237,Belgium,EURO,2020
+"Vergeire-Dalmac, et al 2016",224,63,0.28125,Philippine,WPRO,2016
+"Vidaković, et al 2020",148,39,0.26351351,Serbia,EURO,2020
+"Walaszek, et al 2018",2547,510,0.20023557,Poland,EURO,2018
+"Wan Hanifah, et al 2000",2367,95,0.04013519,Malaysia,WPRO,2000
+"Wang, et al 2013",572,246,0.43006993,China,WPRO,2013
+"Wang, et al 2014",1277,31,0.02427565,China,WPRO,2014
+"Wang, et al 2016",315209,10117,0.03209616,Taiwan,WPRO,2016
+"Wang, et al 2018",43146,530,0.01228387,China,WPRO,2018
+"Wang, et al 2019",23062,972,0.04214726,China,WPRO,2019
+"Wang, et al 2019",15588,7579,0.48620734,China,WPRO,2019
+"Wodajo, et al 2017",592,65,0.1097973,Ethiopia,AFRO,2017
+"Wondimeneh,et al 2014",53,28,0.52830189,Ethiopia,AFRO,2014
+"Worku, et al 2021",225,22,0.09777778,Ethiopia,AFRO,2021
+"Wu, et al 2019",12505,600,0.04798081,China,WPRO,2019
+"Xu, et al 2017",4199,307,0.07311265,China,WPRO,2017
+"Yallew , et al 2016",908,135,0.14867841,Ethiopia,AFRO,2016
+"Yapicioglu, et al 2011",596,96,0.16107383,Turkey,EURO,2011
+"Yin, et al 2018",3588,455,0.12681159,China,WPRO,2018
+"Zahraei, et al 2012",1879356,10712,0.00569982,Iran,EMRO,2012
+"Zhang, et al 2015",332,74,0.22289157,China,WPRO,2015
+"Zhang, et al 2016",4029,147,0.03648548,China,WPRO,2016
+"Zhang, et al 2017",10000,224,0.0224,China,WPRO,2017
+"Zhang, et al 2019",1782,410,0.23007856,China,WPRO,2019
+"Zhang, et al 2019",633990,23361,0.03684758,China,WPRO,2019
+"Zhao, et al 2019",60332,1580,0.02618842,China,WPRO,2019
+"Zhou, et al 2019",51691,1709,0.03306185,China,WPRO,2019
+"Zingg, et al 2017",16237,726,0.04471269,Multiple,EURO,2017
+"Zuschneid, et al 2010",21832,262,0.01200073,Germany,EURO,2010
